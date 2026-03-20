@@ -1,0 +1,1 @@
+ods html file='health_report.html'; PROC PRINT DATA=clean; RUN; ods html close;

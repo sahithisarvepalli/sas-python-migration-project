@@ -1,0 +1,1 @@
+DATA clean; SET work.raw; RUN;

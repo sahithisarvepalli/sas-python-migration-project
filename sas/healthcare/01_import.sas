@@ -1,0 +1,1 @@
+PROC IMPORT DATAFILE='data/patient_data.csv' OUT=work.raw DBMS=CSV REPLACE; RUN;

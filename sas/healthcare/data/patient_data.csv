@@ -1,0 +1,3 @@
+age,risk_score,readmission
+65,0.8,1
+45,0.2,0

@@ -1,0 +1,1 @@
+PROC CAPABILITY DATA=quality; VAR measurement; RUN;

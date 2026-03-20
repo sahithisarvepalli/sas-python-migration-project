@@ -1,0 +1,1 @@
+PROC IMPORT DATAFILE='data/sales.csv' OUT=work.sales DBMS=CSV REPLACE; RUN;

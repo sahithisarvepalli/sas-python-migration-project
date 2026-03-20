@@ -1,0 +1,1 @@
+PROC IMPORT DATAFILE='data/quality.csv' OUT=work.quality DBMS=CSV REPLACE; RUN;
