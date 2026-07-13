@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_retail_sgplot",
+  "source_file": "sas/retail/04_plot.sas",
+  "source_blob_sha": "f0eef50ff880676e025dc38f557b3bc5f48fa971",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "04_plot.sas PROC SGPLOT SERIES X=date Y=units, against a 12-month 'clean' series rebuilt from sales.csv columns (date, units)."
+}

@@ -1,0 +1,1 @@
+PROC SHEWHART DATA=quality; XRChart measurement*batch; RUN;

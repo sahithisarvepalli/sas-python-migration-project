@@ -1,0 +1,45 @@
+                                     
+---------------------------  --------
+Number of Observations Read        12
+Number of Observations Used        12
+
+             Response Profile              
+  Probability modeled is readmission='1'   
+
+Ordered Value  readmission  Total Frequency
+-------------  -----------  ---------------
+            1  0                          6
+            2  1                          6
+
+                                             
+---------------------------------------------
+Convergence criterion (GCONV=1E-8) satisfied.
+
+                                                                                                                     
+---------------------------------------------------------------------------------------------------------------------
+WARNING: There is possibly a quasi-complete separation of data points. The maximum likelihood estimate may not exist.
+
+The LOGISTIC Procedure
+Response Variable: readmission
+
+Criterion     Value
+---------  --------
+AIC           9.352
+-2 Log L      3.352
+SC           10.807
+
+            Analysis of Maximum Likelihood Estimates             
+
+Parameter   Estimate  Standard Error  Wald Chi-Square  Pr > ChiSq
+----------  --------  --------------  ---------------  ----------
+Intercept    -8.4488         11.3304           0.5560      0.4559
+age           0.1339          0.3572           0.1405      0.7078
+risk_score    2.8166         16.2818           0.0299      0.8627
+
+                       Odds Ratio Estimates                        
+
+Effect      Point Estimate  95% Wald CL Lower     95% Wald CL Upper
+----------  --------------  -----------------  --------------------
+age                  1.143              0.568                 2.302
+risk_score          16.720              0.000  1208826378875540.250
+

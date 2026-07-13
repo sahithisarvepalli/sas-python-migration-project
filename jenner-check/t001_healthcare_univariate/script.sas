@@ -1,0 +1,1 @@
+PROC UNIVARIATE DATA=clean; VAR age risk_score; RUN;

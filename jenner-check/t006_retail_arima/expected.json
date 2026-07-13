@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-13T08:18:55.761264+00:00",
+  "_captured_run_id": "r_0ca65da28f3f428980cf9eed306e8bb0",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote clean (12 rows, 2 columns).",
+    "NOTE: PROC ARIMA data=clean",
+    "NOTE: PROC ARIMA completed. 1 model(s) estimated."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

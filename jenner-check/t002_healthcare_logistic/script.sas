@@ -1,0 +1,1 @@
+PROC LOGISTIC DATA=clean; MODEL readmission(event='1') = age risk_score; RUN;

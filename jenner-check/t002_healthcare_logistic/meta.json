@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_healthcare_logistic",
+  "source_file": "sas/healthcare/04_logistic_model.sas",
+  "source_blob_sha": "8d90121531df8ced254c3c35d6e8a4611e9ccb0c",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "04_logistic_model.sas PROC LOGISTIC MODEL readmission(event='1')=age risk_score, against a 12-row 'clean' dataset rebuilt from patient_data.csv columns."
+}

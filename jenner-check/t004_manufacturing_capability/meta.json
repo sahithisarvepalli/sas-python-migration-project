@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_manufacturing_capability",
+  "source_file": "sas/manufacturing/03_capability.sas",
+  "source_blob_sha": "9fbbceeb8ef397e2474c9ca7f1d3d34a531628ca",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "03_capability.sas PROC CAPABILITY VAR measurement, against a 12-row 'quality' dataset rebuilt from quality.csv columns (batch, measurement)."
+}
