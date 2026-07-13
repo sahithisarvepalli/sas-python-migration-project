@@ -1,0 +1,18 @@
+
+                    The SHEWHART Procedure
+                    X-bar and R Chart (n=3) for measurement
+
+  Number of subgroups:    4
+  Subgroup size (avg):    3.0
+  Grand mean (X-bar-bar): 10.275000
+  Average range (R-bar):  0.475000
+  Center line:            10.275000
+  Upper control limit:    10.760956
+  Lower control limit:    9.789044
+  Sigma:                  0.280567
+
+  R Chart
+  Center line:            0.475000
+  Upper control limit:    1.223125
+  Lower control limit:    0.000000
+

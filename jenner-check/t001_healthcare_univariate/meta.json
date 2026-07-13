@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_healthcare_univariate",
+  "source_file": "sas/healthcare/03_eda.sas",
+  "source_blob_sha": "e254f83162120f65c95624a44d08e5aa8f3263ab",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "03_eda.sas PROC UNIVARIATE VAR age risk_score, run against a 10-row 'clean' dataset rebuilt from patient_data.csv columns (age, risk_score, readmission)."
+}

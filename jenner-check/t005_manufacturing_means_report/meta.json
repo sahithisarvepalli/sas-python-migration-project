@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_manufacturing_means_report",
+  "source_file": "sas/manufacturing/04_report.sas",
+  "source_blob_sha": "8fdb357a77ff6448fb0ff1a4dd127054eb2e63e9",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "04_report.sas ODS HTML + PROC MEANS on the 'quality' dataset rebuilt from quality.csv columns (batch, measurement); writes qc_report.html."
+}

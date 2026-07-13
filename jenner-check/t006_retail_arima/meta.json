@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_retail_arima",
+  "source_file": "sas/retail/03_forecast_arima.sas",
+  "source_blob_sha": "a293294a0413941da678aa6f1f031fe722495952",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "03_forecast_arima.sas PROC ARIMA IDENTIFY VAR=units / ESTIMATE P=1 Q=1, against a 12-month 'clean' series rebuilt from sales.csv columns (date, units)."
+}

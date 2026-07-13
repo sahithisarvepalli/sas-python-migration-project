@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_manufacturing_shewhart",
+  "source_file": "sas/manufacturing/02_shewhart.sas",
+  "source_blob_sha": "64be70aafe8b3b728af70a88b9fc7a21adacbe8c",
+  "source_commit": "a00883356ca247f9dc31f83c2077947f217b730a",
+  "notes": "02_shewhart.sas PROC SHEWHART XRChart measurement*batch, against a 12-row 'quality' dataset (4 batches) rebuilt from quality.csv columns (batch, measurement)."
+}

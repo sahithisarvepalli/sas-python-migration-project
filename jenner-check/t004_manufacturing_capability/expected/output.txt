@@ -1,0 +1,11 @@
+                    The CAPABILITY Procedure
+                    Variable: measurement
+                         Moments
+  N                 12
+  Mean              10.275000
+  Std Deviation     0.241680
+  Variance          0.058409
+  Minimum           9.900000
+  Maximum           10.700000
+  Range             0.800000
+
